@@ -106,6 +106,17 @@ app-react-native-ukl/
 
 ---
 
+## 🔄 Alur Jalannya Aplikasi (Workflow)
+
+Berikut adalah alur penggunaan aplikasi PDAM Finance:
+1. **Autentikasi**: Pengguna masuk menggunakan akun pelanggan yang telah terdaftar.
+2. **Dashboard**: Pengguna dapat melihat total tagihan bulan berjalan dan total pemakaian air ($m^3$).
+3. **Simulasi Transaksi**: Pengguna memilih tagihan aktif, memilih metode pembayaran simulasi, dan menyelesaikan pembayaran.
+4. **Riwayat**: Setelah pembayaran sukses, status tagihan diperbarui dan tercatat pada riwayat pembayaran.
+5. **Pengaduan**: Jika ada kendala, pengguna dapat mengirimkan laporan pengaduan langsung dari aplikasi.
+
+---
+
 ## 💻 Kontributor & Pengembang
 
 Proyek ini dibuat dan dikembangkan oleh:
